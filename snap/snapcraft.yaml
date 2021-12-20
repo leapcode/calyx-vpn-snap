@@ -4,7 +4,7 @@ summary: CalyxVPN, secure VPN. Powered by Bitmask.
 description: |
   CalyxVPN is an easy, fast, and secure VPN service from The Calyx Institute.
   CalyxVPN does not require a user account, keep logs, or track you in
-  any way. The service is paid for entirely by donations from users like you.
+  any way.
 grade: stable
 confinement: classic
 icon: snap/gui/icon.svg 
@@ -12,7 +12,7 @@ base: core20
 compression: lzo
 
 architectures:
-  - build-on: [amd64, i386]
+  - build-on: [amd64]
 
 parts:
   bitmask-root:
