@@ -1,15 +1,15 @@
 [Desktop Entry]
 Version=1.0
 Type=Application
-Name=RiseupVPN
+Name=CalyxVPN
 Comment=Anonymous VPN
 Comment[es]=VPN Anonima
 Comment[de]=Anonymous VPN
 Path=/snap/bin/
-Exec=riseup-vpn.launcher
+Exec=calyx-vpn.launcher
 Terminal=false
-Icon=${SNAP}/meta/gui/riseup-vpn.png
+Icon=${SNAP}/meta/gui/calyx-vpn.png
 Categories=Network;Application;
 StartupNotify=true
-Keywords=VPN;Riseup;leap
+Keywords=VPN;Calyx;leap
 
